@@ -33,6 +33,6 @@ usr         Secondary Hierarchy
 var         Variable data
 ```
 
-#### Apt
+#### apt
 
 Debian uses [**`apt`**](https://wiki.debian.org/Apt), the Advanced Package Tool, to handle the installation and removal of software. It automates the retrieval, configuration, and installation of software packages from precompiled files or by compiling source. [**`apt-get`**](https://wiki.debian.org/apt-get) is a CLI that works with **`apt`** to fetch, install, and update packages in Debian.
