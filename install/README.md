@@ -108,3 +108,20 @@ root@95e86d35f113:/# exit
 exit
 debian@n000:~$
 ```
+
+### Some basic docker commands
+
+Let's go over a few commands that are essential to **`docker`**'s typical usage. They are:
+
+* **`docker daemon`** - Start the **`docker`** daemon
+* **`docker build`** - Build a container image
+* **`docker run`** - Run an image in a container over the daemon
+* **`docker ps`** - List currently running containers
+* **`docker pause`** - Pause a running container
+* **`docker unpause`** - Unpause a paused container
+* **`docker stop`** - Stop a running container
+* **`docker start`** - Start a new container
+* **`docker attach`** - Attach to a running container
+* **`docker exec`** - Execute a command within a container
+
+We can run through a quick example using all of these commands.
