@@ -1,2 +1,2 @@
-FROM        tychrestoff/debian:jessie
+FROM        tychrestoff/debian:jessie-min
 MAINTAINER  tychrestoff
